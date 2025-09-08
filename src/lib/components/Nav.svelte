@@ -1,4 +1,6 @@
-<script></script>
+<script>
+    
+</script>
 
 <Navbar class="backdrop-blur">
   <NavBrand href="/">
