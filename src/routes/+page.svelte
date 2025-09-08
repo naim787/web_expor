@@ -1,4 +1,4 @@
-<script lang="ts">
+<script >
   import { page } from "$app/state";
   import { Navbar, NavBrand, NavLi, NavUl, NavHamburger } from "flowbite-svelte";
   let activeUrl = $derived(page.url.pathname);
