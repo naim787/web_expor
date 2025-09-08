@@ -5,7 +5,7 @@
 </script>
 
 
-<Navbar class>
+<Navbar class=>
   <NavBrand href="/">
     <span class="self-center whitespace-nowrap dark:text-white font-bold text-2xl bungee-regular">WEBEXPOR</span>
   </NavBrand>
