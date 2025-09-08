@@ -7,7 +7,7 @@
 
 <Navbar>
   <NavBrand href="/">
-    <span class="self-center text-xl font-semibold whitespace-nowrap dark:text-white">WEB</span>
+    <span class="self-center text-xl font-semibold whitespace-nowrap dark:text-white">WEBE</span>
   </NavBrand>
   <NavHamburger />
   <NavUl {activeUrl}>
