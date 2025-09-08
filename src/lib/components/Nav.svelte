@@ -4,7 +4,7 @@
     let activeUrl = $derived(page.url.pathname);
 </script>
 
-<Navbar class="backdrop-blur border-b-[]">
+<Navbar class="backdrop-blur border-b-[2]">
   <NavBrand href="/">
     <span class="self-center whitespace-nowrap dark:text-white font-bold text-2xl bungee-regular">WEBEXPOR</span>
   </NavBrand>
