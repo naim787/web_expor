@@ -10,7 +10,7 @@
 @plugin 'flowbite/plugin';
 
 @custom-variant dark (&:where(.dark, .dark *));
-
+/* 
 
 @source "../node_modules/flowbite-svelte/dist";
 @source "../node_modules/flowbite-svelte-icons/dist";
@@ -20,4 +20,4 @@
   input[type="search"]::-webkit-search-cancel-button {
     display: none;
   }
-}
+} */
