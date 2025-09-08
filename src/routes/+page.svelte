@@ -4,6 +4,6 @@
 
 <Nav />
 
-<div class="w">
+<div class="">
 
 </div>
