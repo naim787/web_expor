@@ -7,7 +7,7 @@
 
 <Navbar>
   <NavBrand href="/">
-    <span class="self-center text-xl font-semibold whitespace-nowrap dark:text-white">WEB<span class="font-bold">EXPOR </span></span>
+    <span class="self-center text-xl font-semibold whitespace-nowrap dark:text-white">WEB>EXPOR </span></span>
   </NavBrand>
   <NavHamburger />
   <NavUl {activeUrl} >
