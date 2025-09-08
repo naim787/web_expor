@@ -1,8 +1,6 @@
 @import "tailwindcss";
 
-.font-besic {
-  font-family: 'font-besic';
-}
+?
 
 @plugin 'flowbite/plugin';
 
