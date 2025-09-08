@@ -10,7 +10,7 @@
     <span class="self-center text-xl font-semibold whitespace-nowrap dark:text-white">WEBEXPOR</span>
   </NavBrand>
   <NavHamburger />
-  <NavUl {activeUrl} class="text-black">
+  <NavUl {activeUrl} >
     <NavLi href="/" class="text-black bg-white">Home</NavLi>
     <NavLi href="/">Navbar</NavLi>
     <NavLi href="/">Accordion</NavLi>
