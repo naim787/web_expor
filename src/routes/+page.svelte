@@ -11,7 +11,7 @@
   </NavBrand>
   <NavHamburger />
   <NavUl {activeUrl} class="text-black">
-    <NavLi href="/">Home</NavLi>
+    <NavLi href="/" class="text-black">Home</NavLi>
     <NavLi href="/">Navbar</NavLi>
     <NavLi href="/">Accordion</NavLi>
     <NavLi href="/">Alert</NavLi>
