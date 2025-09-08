@@ -13,7 +13,7 @@
   <NavUl {activeUrl}>
     <NavLi href="/">Home</NavLi>
     <NavLi href="/">Navbar</NavLi>
-    <NavLi href="">Accordion</NavLi>
+    <NavLi href="/">Accordion</NavLi>
     <NavLi href="/docs/components/alert">Alert</NavLi>
     <NavLi href="/docs/components/avatar">Avatar</NavLi>
   </NavUl>
