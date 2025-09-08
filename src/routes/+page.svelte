@@ -12,9 +12,9 @@
   <NavHamburger />
   <NavUl {activeUrl}>
     <NavLi href="/">Home</NavLi>
-    <NavLi href="/">Navbar</NavLi>
-    <NavLi href="/">Accordion</NavLi>
-    <NavLi href="/">Alert</NavLi>
-    <NavLi href="/">Avatar</NavLi>
+    <NavLi href="/docs/componentr">Navbar</NavLi>
+    <NavLi href="/docs/components/accordion">Accordion</NavLi>
+    <NavLi href="/docs/components/alert">Alert</NavLi>
+    <NavLi href="/docs/components/avatar">Avatar</NavLi>
   </NavUl>
 </Navbar>
