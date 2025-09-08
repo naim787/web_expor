@@ -12,7 +12,7 @@
   <NavHamburger />
   <NavUl {activeUrl} >
     <NavLi href="/" class="text-black bg-white">Home</NavLi>
-    <NavLi href="/">Navbar</NavLi>
+    <NavLi href="/" class="text-black bg-white">Navbar</NavLi>
     <NavLi href="/">Accordion</NavLi>
     <NavLi href="/">Alert</NavLi>
     <NavLi href="/">Avatar</NavLi>
