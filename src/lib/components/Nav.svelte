@@ -2,7 +2,6 @@
     import { page } from "$app/state";
     import { Navbar, NavBrand, NavLi, NavUl, NavHamburger } from "flowbite-svelte";
     let activeUrl = $derived(page.url.pathname);
-    
 </script>
 
 <Navbar class="backdrop-blur border-b-1 border-gray-200">
