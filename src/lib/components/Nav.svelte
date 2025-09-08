@@ -16,6 +16,6 @@
     <NavLi href="/" class="text-black bg-white">Accordion</NavLi>
     <NavLi href="/" class="text-black bg-white">Alert</NavLi>
     <NavLi href="/" class="text-black bg-white">Avatar</NavLi>
-    <Da
+    <DarkMode /
   </NavUl>
 </Navbar>
