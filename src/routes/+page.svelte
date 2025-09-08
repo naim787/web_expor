@@ -4,6 +4,7 @@
   let activeUrl = $derived(page.url.pathname);
 </script>
 
+
 <Navbar>
   <NavBrand href="/">
     <span class="self-center text-xl font-semibold whitespace-nowrap dark:text-white">Flowbite</span>
