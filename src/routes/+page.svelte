@@ -5,4 +5,4 @@
   let activeUrl = $derived(page.url.pathname);
 </script>
 
-<Nav>
+<Nav />
