@@ -7,7 +7,7 @@
 
 <Navbar>
   <NavBrand href="/">
-    <span class="self-center whitespace-nowrap dark:text-white font-bold text-md bungee-regular">WEBEXPOR</span>
+    <span class="self-center whitespace-nowrap dark:text-white font-bold text- bungee-regular">WEBEXPOR</span>
   </NavBrand>
   <NavHamburger />
   <NavUl {activeUrl} >
