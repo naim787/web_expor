@@ -3,6 +3,7 @@
   import { onMount } from "svelte";
   import "../app.css";
   import { Gallery } from "flowbite-svelte";
+  <SearchOutline class="shrink-0 h-6 w-6" />
   
   const images = [
     { alt: "shoes", src: "./tmp0.webp" },
