@@ -4,7 +4,7 @@
   import "../app.css";
   import { Gallery , Label, Input} from "flowbite-svelte";
   import { EnvelopeSolid } from "flowbite-svelte-icons";
-   <SearchOutline class="shrink-0 h-6 w-6" />
+  //  <SearchOutline class="shrink-0 h-6 w-6" />
   
   const images = [
     { alt: "shoes", src: "./tmp0.webp" },
