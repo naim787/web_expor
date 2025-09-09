@@ -78,7 +78,6 @@
                 <a href="/" class="">Template</a>
                 <a href="/" class="">Tutorial</a>
                 <a href="/" class="">Tentag Kami</a>
-
               </div>
             </div>
           </div>
