@@ -33,7 +33,6 @@
      <!-- <div class="w-200 h-60 border">
       <img src="./tmp0.webp" alt="" class="w-60">
      </div> -->
-     
     <Gallery class="grid-cols-2 gap-2 w-100" items={images} />
   </div>
 </div>
