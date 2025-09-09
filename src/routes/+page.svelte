@@ -76,7 +76,7 @@
               <a href="/" class="">Pertanyaan</a>
               <a href="/" class="">Template</a>
               <a href="/" class="">Tutorial</a>
-              <a href="/" class="">T</a>
+              <a href="/" class="">Tentag</a>
             </div>
           </div>
         </DeviceMockup>
