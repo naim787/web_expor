@@ -36,3 +36,5 @@
     <Gallery class="grid-cols-2 gap-2 w-100" items={images} />
   </div>
 </div>
+
+div.
