@@ -72,7 +72,7 @@
         <DeviceMockup device="laptop">
           <div class="w-150 h-200 border bg-red-500 relative">
             <div class="w-full h-10 bg-black">
-              <span class="self-center whitespace-nowrap dark:text-white font-bold text- bungee-regular">WEBEXPOR</span>
+              <span class="self-center whitespace-nowrap dark:text-white font-bold text-md bungee-regular">WEBEXPOR</span>
             </div>
           </div>
         </DeviceMockup>
