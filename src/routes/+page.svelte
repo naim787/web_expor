@@ -21,8 +21,7 @@
 
 <Nav />
 
-<div class="w-auto h-auto dark:bg-gray-950"></div>
-<div class="dark:text-white w-[100vw] h-[100vh] p-2 z-10 backdrop-blur">
+<div class="dark:bg-gray-950 dark:text-white w-[100vw] h-[100vh] p-2">
 
   <div class="w-full justify-evenly items-center flex pt-[15vh]">
     <!-- // jusudul -->
@@ -37,5 +36,3 @@
     <Gallery class="grid-cols-2 gap-2 w-100" items={images} />
   </div>
 </div>
-
-<div class="w-[20vw] h-[20vw] absolute top-0 left-0 bg-blue-800 rounded-full z-[-1]"></div>
