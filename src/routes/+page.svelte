@@ -15,7 +15,7 @@
       <Avatar src="https://images.nightcafe.studio/jobs/REDfxKehp6X24LqqFDwj/REDfxKehp6X24LqqFDwj--0--kydh4.jpg?tr=w-1600,c-at_max" stacked />
       <Avatar src="https://images.nightcafe.studio/jobs/7wY35HmH7kDK5IWkXM53/7wY35HmH7kDK5IWkXM53--0--x64ol.jpg?tr=w-1600,c-at_max" stacked />
       <Avatar src="https://images.nightcafe.studio/jobs/Hz3hy7nuh0EB0JEdOKG0/Hz3hy7nuh0EB0JEdOKG0--0--79lhe.jpg?tr=w-1600,c-at_max" stacked />
-  <Avatar stacked href="/" class="bg-gray-700 text-sm text-white hover:bg-gray-600">+</Avatar>
+  <Avatar stacked href="/" class="bg-gray-700 text-sm text-white hover:bg-gray-600">+5k</Avatar>
 </div>
   </div>
 
