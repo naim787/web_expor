@@ -4,7 +4,7 @@
   import { Button, GradientButton, Avatar} from "flowbite-svelte";
 
   import { Carousel, Controls, CarouselIndicators, Thumbnails } from "flowbite-svelte";
-  import images from "./imageData/images.json";
+  let images from "./imageData/images.json";
 
   let index = $state(0);
 
@@ -89,12 +89,12 @@
 
             <div class="flex justify-evenly gap-2 flex-wrap">
               <div class="max-w-4xl space-y-4">
-              <Carousel {images} bind:index>
-                <Controls />
-                <CarouselIndicators />
-              </Carousel>
-              <Thumbnails {images} bind:index />
-            </div>
+                <Carousel {images} bind:index>
+                  <Controls />
+                  <CarouselIndicators />
+                </Carousel>
+                <Thumbnails {images} bind:index />
+              </div>
             </div>
           </div>
         </DeviceMockup>
