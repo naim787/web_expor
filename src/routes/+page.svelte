@@ -5,7 +5,8 @@
 
   import { onMount, onDestroy } from "svelte";
 
-  // 
+  // transation
+  import { fade } from 'svelte/transition';
 
   let scrollEl;
   let scrollInstance;
