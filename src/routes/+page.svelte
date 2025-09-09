@@ -82,7 +82,7 @@
               </div>
             </div>
 
-            <div class="border">
+            <div class="">
               <img src="./tmp0.webp" alt="" class="w-20">
             </div>
           </div>
