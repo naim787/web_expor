@@ -1,7 +1,7 @@
 <script>
   import Nav from "$lib/components/Nav.svelte";
   import "../app.css"
-  
+  import { GradientButton } from "flowbite-svelte";
 </script>
 
 <Nav />
