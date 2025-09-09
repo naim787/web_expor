@@ -66,7 +66,7 @@
             {:else}
             <Skeleton size="sm" class="my-8" />
           </div>
-            {/if}
+        {/if}
         </div>
      </div>
   
