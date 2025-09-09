@@ -5,7 +5,9 @@
   font-weight: 400;
   font-style: normal;
 }
-
+body {
+    cursor: url('./cursor.png'), auto;
+}
 
 @plugin 'flowbite/plugin';
 

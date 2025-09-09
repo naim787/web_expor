@@ -1,30 +1,10 @@
-<!-- src/routes/+page.svelte -->
 <script>
-  let domain = '';
-  let available = null;
-
-  async function checkDomain() {
-    try {
-      const res = await fetch(`/api/domain-check?domain=${domain}`);
-      const data = await res.json();
-      available = data.available;
-    } catch (err) {
-      available = false;
-    }
-  }
+  import Nav from "$lib/components/Nav.svelte";
+  import "../app.css"
 </script>
 
-<h1>Domain Checker</h1>
+<Nav />
 
-<form on:submit|preventDefault={checkDomain}>
-  <input type="text" bind:value={domain} placeholder="Enter a domain" />
-  <button type="submit">Check Availability</button>
-</form>
+<div class="w-[100vw] h-[100vh] dark:bg-gray-950 ">
 
-{#if available !== null}
-  {#if available}
-    <p>The domain <strong>{domain}</strong> is available!</p>
-  {:else}
-    <p>The domain is not available.</p>
-  {/if}
-{/if}
+</div>
