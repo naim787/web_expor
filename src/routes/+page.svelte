@@ -12,6 +12,7 @@
   onMount(() => {
     gsap.to(element, { duration: 2, x: 100, rotation: 360 });
   });
+  
 </script>
 
 <Nav />
