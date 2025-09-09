@@ -7,6 +7,6 @@
 
 <div class="w-[100vw] h-[100vh] dark:bg-gray-950 ">
   <div class="w-100">
-    <h1 class="">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quibusdam commodi laudantium temporibus doloribus, pariatur fuga?</h1>
+    <h1 class="text">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quibusdam commodi laudantium temporibus doloribus, pariatur fuga?</h1>
   </div>
 </div>
