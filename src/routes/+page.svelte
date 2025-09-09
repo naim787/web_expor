@@ -4,7 +4,7 @@
   import { Button, GradientButton, Avatar} from "flowbite-svelte";
 
   //device
-  import { DeviceMockup, NavHamburger } from "flowbite-svelte";
+  import { DeviceMockup } from "flowbite-svelte";
 
   import { onMount, onDestroy } from "svelte";
 
@@ -71,9 +71,7 @@
 
         <DeviceMockup device="laptop">
           <div class="w-150 h-200 border bg-red-500 relative">
-            <div class="w-full h-10">
-              <NavHamburger />
-            </div>
+            <div class="w-full h-10 bg-black"></div>
           </div>
         </DeviceMockup>
      </div>
