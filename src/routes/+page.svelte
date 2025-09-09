@@ -23,7 +23,7 @@
 
 <div class="w-auto h-auto dark:bg-gray-950 relative">
 
-  <div class="dark:text-white w-[100vw] h-[100vh] p-2 z-20 backdrop-blur">
+  <div class="dark:text-white w-[100vw] h-[100vh] p-2 z-10 backdrop-blur">
   
     <div class="w-full justify-evenly items-center flex pt-[15vh]">
       <!-- // jusudul -->
@@ -39,6 +39,6 @@
     </div>
   </div>
   
-  <div class="w-[20vw] h-[20vw] absolute top-0 left-0 bg-blue-800 rounded-full"></div>
+  <div class="w-[20vw] h-[20vw] absolute top-0 left-0 bg-blue-800 rounded-full z-[-1]"></div>
 
 </div>
