@@ -1,7 +1,7 @@
 <script>
   import Nav from "$lib/components/Nav.svelte";
   import "../app.css"
-  import { Button, GradientButton, Avatar, eviceMockup} from "flowbite-svelte";
+  import { Button, GradientButton, Avatar} from "flowbite-svelte";
 
   //device
   import { DeviceMockup } from "flowbite-svelte";
