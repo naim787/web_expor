@@ -53,7 +53,7 @@
   <div class="w-[100vw] h-auto dark:bg-gray-950 text-black p-4 dark:text-white overflow-hidden" bind:this={scrollEl} data-scroll-container>
   
     <!-- section -->
-     <div class="w-full h-[100vh] flex justify-center items-center flex-col md">
+     <div class="w-full h-[100vh] flex justify-center items-center flex-col ">
        <div class="w-120" transition:fade>
          {#if bannerLabel}
          <h1 class="bungee-regular text-5xl">Percepat Transformasi Digital Bisnis Anda dengan Solusi <GradientButton shadow color="red" class="text-3xl">Website</GradientButton> Terjangkau</h1>
