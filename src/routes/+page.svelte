@@ -3,7 +3,9 @@
   import "../app.css"
   import { Button, GradientButton, Avatar} from "flowbite-svelte";
 
-  gsap
+  // gsap
+  import { onMount } from 'svelte';
+  import { gsap } from 'gsap';
 </script>
 
 <Nav />
