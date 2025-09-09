@@ -23,7 +23,6 @@
 		"@tailwindcss/vite": "^4.1.13",
 		"chokidar": "^4.0.3",
 		"domain-lookup": "^1.5.5",
-		"gsap": "^3.13.0",
 		"simple-git": "^3.28.0",
 		"tailwindcss": "^4.1.13"
 	}
