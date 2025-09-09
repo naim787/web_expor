@@ -2,6 +2,7 @@
   import Nav from "$lib/components/Nav.svelte";
   import "../app.css"
   import { Button, GradientButton } from "flowbite-svelte";
+   import { Avatar } from "flowbite-svelte";
 </script>
 
 <Nav />
