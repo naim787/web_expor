@@ -21,8 +21,6 @@
   });
 </script>
 
-<div class="w-auto h-auto" >
-
   <Nav />
   
   <div class="w-[100vw] h-auto dark:bg-gray-950 text-black p-4 dark:text-white overflow-hidden border" bind:this={scrollEl} data-scroll-container>
