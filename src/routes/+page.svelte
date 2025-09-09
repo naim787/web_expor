@@ -82,7 +82,9 @@
               </div>
             </div>
 
-            <div class=""></div>
+            <div class="">
+              
+            </div>
           </div>
         </DeviceMockup>
      </div>
