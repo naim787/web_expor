@@ -25,7 +25,7 @@
 
   <Nav />
   
-  <div class="w-[100vw] h-[500vh] dark:bg-gray-950 text-black p-4 dark:text-white overflow-hidde " >
+  <div class="w-[100vw] h-[500vh] dark:bg-gray-950 text-black p-4 dark:text-white overflow-hidden" >
   
     <!-- section -->
      <div class="w-full h-[100vh] flex justify-center items-center border">
