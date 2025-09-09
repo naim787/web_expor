@@ -14,7 +14,7 @@
     <NavLi href="/" class="text-black bg-white dark:bg-transparent">Pertannyaan</NavLi>
     <NavLi href="/" class="text-black bg-white dark:bg-transparent">Template</NavLi>
     <NavLi href="/" class="text-black bg-white dark:bg-transparent">Tutorial</NavLi>
-    <NavLi href="/" class="text-black bg-white dark:bg-transparent">Blog</NavLi>
+    <NavLi href="/" class="text-black bg-white dark:bg-transparent"></NavLi>
     <NavLi href="/" class="text-black bg-white dark:bg-transparent">Avatar</NavLi>
     <DarkMode />
   </NavUl>
