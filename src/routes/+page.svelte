@@ -4,6 +4,7 @@
   import "../app.css";
   import { Gallery } from "flowbite-svelte";
   
+  
   const images = [
     { alt: "shoes", src: "./tmp0.webp" },
     { alt: "small bag", src: "./tmp1.webp" },
