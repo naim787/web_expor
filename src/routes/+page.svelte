@@ -37,4 +37,4 @@
   </div>
 </div>
 
-<div class="w-[20vw] h-[20vw] absolute top-0 left-0 bg-blue"></div>
+<div class="w-[20vw] h-[20vw] absolute top-0 left-0 bg-blue-800"></div>
