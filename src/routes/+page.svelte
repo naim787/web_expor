@@ -9,7 +9,7 @@
 
   <!-- section -->
   <div class="pt-25 w-120">
-    <h1 class="bungee-regular text-3xl">Tingkatkan Visibilitas Bisnis Anda secara <span class="text-yellow-500">Global</span> dengan <span class="bg-orange-500">Website</span> Profesional</h1>
+    <h1 class="bungee-regular text-3xl">Tingkatkan Visibilitas Bisnis Anda secara <span class="t-yellow-500">Global</span> dengan <span class="bg-orange-500">Website</span> Profesional</h1>
   </div>
 
 </div>
