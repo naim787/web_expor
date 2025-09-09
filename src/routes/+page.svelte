@@ -3,7 +3,8 @@
   import { onMount } from "svelte";
   import "../app.css";
   import { Gallery } from "flowbite-svelte";
-
+  import { Label, Input } from "flowbite-svelte";
+  import { EnvelopeSolid } from "flowbite-svelte-icons";
   
   const images = [
     { alt: "shoes", src: "./tmp0.webp" },
