@@ -17,7 +17,7 @@
   onMount( async() => {
     const res = await fetch("/?domain=webexpor.com");
     const data = await res.json();
-    // console.log(data);
+    console.log(data);
   });
   
 </script>
