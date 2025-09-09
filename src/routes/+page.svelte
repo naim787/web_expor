@@ -7,6 +7,7 @@
   import images from "./imageData/images.json";
 
   let index = $state(0);
+  
   //device
   import { DeviceMockup } from "flowbite-svelte";
 
