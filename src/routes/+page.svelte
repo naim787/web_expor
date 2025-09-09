@@ -5,28 +5,28 @@
 
   import { Carousel, Controls, CarouselIndicators, Thumbnails } from "flowbite-svelte";
   let index = $state(0);
-  
+  let images = [
+    {
+      alt: "Cosmic timetraveler",
+      src: "/images/carousel/cosmic-timetraveler-pYyOZ8q7AII-unsplash.webp",
+      title: "cosmic-timetraveler-pYyOZ8q7AII-unsplash.com"
+    }
+  ]
+
   //device
   import { DeviceMockup } from "flowbite-svelte";
-  
+
   import { onMount, onDestroy } from "svelte";
-  
-  // skeleton
+
+// skeleton
   import { Skeleton } from "flowbite-svelte";
   let bannerLabel;
   onMount(async() => {
-    bannerLabel = await [
-      "https://images.nightcafe.studio/jobs/REDfxKehp6X24LqqFDwj/REDfxKehp6X24LqqFDwj--0--kydh4.jpg?tr=w-1600,c-at_max",
-      "https://images.nightcafe.studio/jobs/7wY35HmH7kDK5IWkXM53/7wY35HmH7kDK5IWkXM53--0--x64ol.jpg?tr=w-1600,c-at_max",
-      "https://images.nightcafe.studio/jobs/Hz3hy7nuh0EB0JEdOKG0/Hz3hy7nuh0EB0JEdOKG0--0--79lhe.jpg?tr=w-1600,c-at_max"
-    ];
-    let images = await [
-      {
-        alt: "Cosmic timetraveler",
-        src: "/images/carousel/cosmic-timetraveler-pYyOZ8q7AII-unsplash.webp",
-        title: "cosmic-timetraveler-pYyOZ8q7AII-unsplash.com"
-      }
-    ]
+      bannerLabel = await [
+       "https://images.nightcafe.studio/jobs/REDfxKehp6X24LqqFDwj/REDfxKehp6X24LqqFDwj--0--kydh4.jpg?tr=w-1600,c-at_max",
+       "https://images.nightcafe.studio/jobs/7wY35HmH7kDK5IWkXM53/7wY35HmH7kDK5IWkXM53--0--x64ol.jpg?tr=w-1600,c-at_max",
+       "https://images.nightcafe.studio/jobs/Hz3hy7nuh0EB0JEdOKG0/Hz3hy7nuh0EB0JEdOKG0--0--79lhe.jpg?tr=w-1600,c-at_max"
+     ];
   });
 
 // transation
