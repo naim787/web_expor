@@ -8,7 +8,9 @@
 // skeleton
   import { Skeleton } from "flowbite-svelte";
   onMount(async() => {
-    const bannerLabel = []
+    const bannerLabel = [
+      
+    ]
   })
 
 // transation
