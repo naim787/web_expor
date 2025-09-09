@@ -6,16 +6,16 @@
   import { Carousel, Controls, CarouselIndicators, Thumbnails } from "flowbite-svelte";
   import images from "./p.json";
 
-  let index = $state(0);
-
+  
   //device
   import { DeviceMockup } from "flowbite-svelte";
-
+  
   import { onMount, onDestroy } from "svelte";
-
-// skeleton
+  
+  // skeleton
   import { Skeleton } from "flowbite-svelte";
   let bannerLabel;
+  let index = $state(0);
   onMount(async() => {
       bannerLabel = await [
        "https://images.nightcafe.studio/jobs/REDfxKehp6X24LqqFDwj/REDfxKehp6X24LqqFDwj--0--kydh4.jpg?tr=w-1600,c-at_max",
