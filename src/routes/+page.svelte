@@ -54,7 +54,7 @@
        <div class="w-120" transition:fade>
          <h1 class="bungee-regular text-5xl">Percepat Transformasi Digital Bisnis Anda dengan Solusi <GradientButton shadow color="red" class="text-3xl">Website</GradientButton> Terjangkau</h1>
          <div class="flex">
-          {}
+          {#}
           {#each bannerLabel as banner}
             <Avatar src={banner} stacked />
           {/each}
