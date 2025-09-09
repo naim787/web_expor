@@ -16,7 +16,7 @@
   let Domain = "";
 
   async function searchDomain() {
-    const res = await fetch(`/?domain=${}`);
+    const res = await fetch(`/?domain=${D}`);
     const data = await res.json();
   }
   
