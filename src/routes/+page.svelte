@@ -2,7 +2,7 @@
   import Nav from "$lib/components/Nav.svelte";
   import { onMount } from "svelte";
   import "../app.css";
-  import { Gallery } from "flowbite-svelte";
+  import { Gallery , Label, Input} from "flowbite-svelte";
   import {  } from "flowbite-svelte";
   import { EnvelopeSolid } from "flowbite-svelte-icons";
   
