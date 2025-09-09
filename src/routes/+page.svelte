@@ -6,7 +6,7 @@
 
 <Nav />
 
-<div class="w-[100vw] h-[100vh] dark:bg-gray-950 text-black p-4 dark:text-white ">
+<div class="w-[100vw] h-[100vh] dark:bg-gray-950 text-black p-4 dark:text-white over">
 
   <!-- section -->
    <div class="w-[100vw] h-[100vh] flex justify-center items-center">
