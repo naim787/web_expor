@@ -14,7 +14,7 @@
   ];
   
   let Domain = "";
-  async function searchDomain(params) {
+  async function searchDomain() {
     
   }
   onMount( async() => {
