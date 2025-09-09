@@ -28,7 +28,7 @@
   <div class="w-full justify-evenly items-center flex pt-[15vh]">
     <!-- // jusudul -->
     <div class="w-100">
-       <h1 class="text-5xl font-bold bungee-regular text-lg text-gray-700 text-shadow-2xl text-gray-500">Mulailah Deggan Lagkah <span class="text-orange-500">Besar</span> Tanpa Biaya Besar</h1>
+       <h1 class="text-5xl font-bold bungee-regular text-gray-700 text-shadow-2xl text-gray-500">Mulailah Deggan Lagkah <span class="text-orange-500">Besar</span> Tanpa Biaya Besar</h1>
        <Input id="email" type="email" placeholder="Cari domain" class="pl-8">
           {#snippet left()}
             <SearchOutline class="shrink-0 h-6 w-6" />
