@@ -73,7 +73,9 @@
           <div class="w-150 h-200 border bg-red-500 relative">
             <div class="w-full h-10 bg-black flex items-center justify-between p-2">
               <span class="self-center whitespace-nowrap dark:text-white font-bold text-md bungee-regular">WEBEXPOR</span>
-              <div class="w-50"></div>
+              <div class="w-50">
+                
+              </div>
               <a href="/" class="">Pertanyaan</a>
               <a href="/" class="">Template</a>
               <a href="/" class="">Tutorial</a>
