@@ -92,12 +92,6 @@
               <img src="./tmp0.webp" alt="" class="w-20">
               <img src="./tmp0.webp" alt="" class="w-20">
               <img src="./tmp0.webp" alt="" class="w-20">
-              <img src="./tmp0.webp" alt="" class="w-20">
-              <img src="./tmp0.webp" alt="" class="w-20">
-              <img src="./tmp0.webp" alt="" class="w-20">
-              <img src="./tmp0.webp" alt="" class="w-20">
-              <img src="./tmp0.webp" alt="" class="w-20">
-              <img src="./tmp0.webp" alt="" class="w-20">
             </div>
           </div>
         </DeviceMockup>
