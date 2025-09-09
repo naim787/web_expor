@@ -1,16 +1,19 @@
-// src/routes/+page.js
-import { goto } from '$app/navigation';
+// src/routes/api/domain-check/+server.js
 
-export async function load({ url }) {
-  const domain = url.searchParams.get('domain');
-  if (domain) {
-    const res = await fetch(`/api/domain-check?domain=${domain}`);
-    const data = await res.json();
-    if (data.available) {
-      return { available: true, domain };
-    } else {
-      return { available: false, error: data.error };
-    }
+import { checkDomain } from "domain-lookup";
+
+export async function GET({ url }) {
+  const domain = url.searchParams.get("domain");
+
+  try {
+    const result = await checkDomain(domain || "example.com");
+    return new Response(JSON.stringify({ available: result }), {
+      status: 200,
+      headers: { "Content-Type": "application/json" }
+    });
+  } catch (err) {
+    return new Response(JSON.stringify({ error: err.message }), {
+      status: 500
+    });
   }
-  return {};
 }
