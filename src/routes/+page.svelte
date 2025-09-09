@@ -7,7 +7,7 @@
   let images = [
     {
       alt: "Cosmic timetraveler",
-      src: "./",
+      src: "./tmp0.webp",
       title: "cosmic-timetraveler-pYyOZ8q7AII-unsplash.com"
     }
   ]
