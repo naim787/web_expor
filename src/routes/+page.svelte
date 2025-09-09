@@ -15,7 +15,7 @@
   
   let Domain = "";
   onMount( async() => {
-    const res = await fetch("/?domain=");
+    const res = await fetch("/?domain=webex");
     const data = await res.json();
     console.log(data);
   });
