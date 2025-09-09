@@ -82,15 +82,7 @@
               </div>
             </div>
 
-            <div class="flex justify-evenly gap-2 flex-wrap">
-              <img src="./tmp0.webp" alt="" class="w-20">
-              <img src="./tmp0.webp" alt="" class="w-20">
-              <img src="./tmp0.webp" alt="" class="w-20">
-              <img src="./tmp0.webp" alt="" class="w-20">
-              <img src="./tmp0.webp" alt="" class="w-20">
-              <img src="./tmp0.webp" alt="" class="w-20">
-              <img src="./tmp0.webp" alt="" class="w-20">
-              <img src="./tmp0.webp" alt="" class="w-20">
+            <div class="flex justify-evenly gap-2 fle">
               <img src="./tmp0.webp" alt="" class="w-20">
             </div>
           </div>
