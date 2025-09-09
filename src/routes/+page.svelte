@@ -4,7 +4,7 @@
   import { Button, GradientButton, Avatar} from "flowbite-svelte";
 
   import { Carousel, Controls, CarouselIndicators, Thumbnails } from "flowbite-svelte";
-  let images from "./images.json";
+  let images from "./p.json";
 
   let index = $state(0);
 
