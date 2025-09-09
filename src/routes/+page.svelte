@@ -7,7 +7,7 @@
 
 // skeleton
   import { Skeleton } from "flowbite-svelte";
-  
+  on
 
 // transation
   import { fade } from 'svelte/transition';
