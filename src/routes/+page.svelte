@@ -5,7 +5,6 @@
   import { Gallery , Label, Input} from "flowbite-svelte";
   import { EnvelopeSolid } from "flowbite-svelte-icons";
   
-  
   const images = [
     { alt: "shoes", src: "./tmp0.webp" },
     { alt: "small bag", src: "./tmp1.webp" },
