@@ -8,7 +8,7 @@
 // skeleton
   import { Skeleton } from "flowbite-svelte";
   onMount(async() => {
-    const data
+    const d =
   })
 
 // transation
