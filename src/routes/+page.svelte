@@ -31,11 +31,7 @@
        <h1 class="text-5xl font-bold bungee-regular">Mulailah Deggan Lagkah <span class="text-orange-500">Besar</span> Tanpa Biaya Besar</h1>
        <div class="w-100 h-15 border rounded-xl flex items-center justify-between">
         <input type="text" name="" id="" class="rounded-md w-[85%]" />
-        <Input id="email" type="email" placeholder="name@flowbite.com" class="pl-8">
-    {#snippet left()}
-      <EnvelopeSolid class="h-5 w-5 text-gray-500 dark:text-gray-400" />
-    {/snippet}
-  </Input>
+        
        </div>
     </div>
   
