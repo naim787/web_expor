@@ -72,7 +72,7 @@
         <DeviceMockup device="laptop">
           <div class="w-150 h-200 border bg-red-500 relative">
             <div class="w-full h-10 bg-black flex justify-between items-center p-2">
-              <div class="self-center whitespace-nowrap dark:text-white font-bold text-md bungee-regular">WEBEXPOR</div>
+              <div class="self-center whitespace-nowrap dark:text-white font-bold text-md
               <div class="w-70 text-[10px]">
                 <a href="/" class="">Pertanyaan</a>
                 <a href="/" class="">Template</a>
