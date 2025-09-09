@@ -21,7 +21,7 @@
 
 <Nav />
 
-<div class="dark:bg-gray-950 dark:text-white w-[100vw] h-[100vh] p-2 z-20 backdrop-blur-xl">
+<div class="dark:bg-gray-950 dark:text-white w-[100vw] h-[100vh] p-2 z-10 backdrop-blur-xl">
 
   <div class="w-full justify-evenly items-center flex pt-[15vh]">
     <!-- // jusudul -->
