@@ -6,7 +6,7 @@
   import { onMount, onDestroy } from "svelte";
 // skeleton
   import { Skeleton } from "flowbite-svelte";
-  // transation
+// transation
   import { fade } from 'svelte/transition';
 
   let scrollEl;
