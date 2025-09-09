@@ -4,6 +4,19 @@
   import { Button, GradientButton, Avatar} from "flowbite-svelte";
 
   import LocomotiveScroll from 'locomotive-scroll';
+  import { onMount } from 'svelte';
+
+  let scrollEl;
+
+  onMount(() => {
+    const scroll = new LocomotiveScroll({
+      el: scrollEl,
+      smooth: true,
+      smoothMobile: false,
+      getSpeed: true,
+      getDirection: true
+    });
+  });
 </script>
 
 <Nav />
