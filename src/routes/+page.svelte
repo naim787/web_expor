@@ -61,9 +61,9 @@
             <Avatar stacked href="/" class="bg-gray-700 text-sm text-white hover:bg-gray-600">+5230</Avatar>
 
             {:else}
+            <Skeleton size="sm" class="my-8" />
             {/if}
           </div>
-          <Skeleton size="sm" class="my-8" />
         </div>
      </div>
   
