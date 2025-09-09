@@ -5,7 +5,11 @@
 
   import { Carousel, Controls, CarouselIndicators, Thumbnails } from "flowbite-svelte";
   let images = [
-    
+    {
+      alt: "Cosmic timetraveler",
+      src: "/images/carousel/cosmic-timetraveler-pYyOZ8q7AII-unsplash.webp",
+      title: "cosmic-timetraveler-pYyOZ8q7AII-unsplash.com"
+    }
   ]
   let index = $state(0);
 
