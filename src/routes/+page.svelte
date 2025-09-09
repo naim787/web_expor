@@ -19,7 +19,7 @@
     const data = await res.json();
   }
   onMount( async() => {
-    await searchDomain()
+    await searchDomain();
   });
   
 </script>
