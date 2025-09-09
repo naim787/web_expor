@@ -3,7 +3,7 @@
   import { onMount } from "svelte";
   import "../app.css";
   import { Gallery } from "flowbite-svelte";
-  SearchOutli
+  SearchOutline
   
   const images = [
     { alt: "shoes", src: "./tmp0.webp" },
