@@ -70,7 +70,7 @@
         </div>
 
         <DeviceMockup device="laptop">
-          <div class="w-100">
+          <div class="w-150">
             <Nav />
 
           </div>
