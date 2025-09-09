@@ -2,8 +2,8 @@
   import Nav from "$lib/components/Nav.svelte";
   import { onMount } from "svelte";
   import "../app.css";
-  import { Gallery } from "flowbite-svelte";
-  Sea
+  import { Gallery, Search } from "flowbite-svelte";
+  Search
   
   const images = [
     { alt: "shoes", src: "./tmp0.webp" },
