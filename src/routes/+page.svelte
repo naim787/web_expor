@@ -9,7 +9,7 @@
 
   <!-- section -->
   <div class="pt-25 w-120">
-    <h1 class="bungee-regular text-3xl">Percepat Transformasi Digital Bisnis Anda dengan Solusi <span class="bg-ora"></span> Website Terjangkau</h1>
+    <h1 class="bungee-regular text-3xl">Percepat Transformasi Digital Bisnis Anda dengan Solusi <span class="bg-orange-500"></span> Website Terjangkau</h1>
   </div>
 
 </div>
