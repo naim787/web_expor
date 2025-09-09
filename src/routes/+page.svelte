@@ -51,8 +51,8 @@
            <Avatar src="https://images.nightcafe.studio/jobs/Hz3hy7nuh0EB0JEdOKG0/Hz3hy7nuh0EB0JEdOKG0--0--79lhe.jpg?tr=w-1600,c-at_max" stacked />
            <Avatar stacked href="/" class="bg-gray-700 text-sm text-white hover:bg-gray-600">+5230</Avatar>
           </div>
-          <Skeleton size="sm" class="my-8" />
-       </div>
+        </div>
+        <Skeleton size="sm" class="my-8" />
      </div>
   
   </div>
