@@ -21,7 +21,7 @@
   });
 </script>
 
-<div class="w-auto h-auto" bind:this={scrollEl} data-scroll-container>
+<div class="w-auto h-auto" >
 
   <Nav />
   
