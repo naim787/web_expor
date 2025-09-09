@@ -20,5 +20,4 @@
       <DarkMode />
     </NavUl>
   </Navbar>
-
 </GradientButton>
