@@ -28,7 +28,7 @@
   <div class="w-[100vw] h-[100vh] dark:bg-gray-950 text-black p-4 dark:text-white overflow-hidden border" >
   
     <!-- section -->
-     <div class="w-[100vw] h-[] flex justify-center items-center">
+     <div class="w-[100vw] h-[100vh] flex justify-center items-center">
        <div class="w-120">
          <h1 class="bungee-regular text-5xl">Percepat Transformasi Digital Bisnis Anda dengan Solusi <GradientButton shadow color="red" class="text-3xl">Website</GradientButton> Terjangkau</h1>
          <div class="flex">
