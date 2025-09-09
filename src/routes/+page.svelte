@@ -10,7 +10,7 @@
 
   <!-- section -->
   <div class="pt-25 w-120">
-    <h1 class="bungee-regular text-3xl">Percepat Transformasi Digital Bisnis Anda dengan Solusi <GradientButton color="pinkToOrange">Pink to Orange</GradientButton> Terjangkau</h1>
+    <h1 class="bungee-regular text-3xl">Percepat Transformasi Digital Bisnis Anda dengan Solusi <GradientButton color="pinkToOrange"></GradientButton> Terjangkau</h1>
   </div>
 
 </div>
