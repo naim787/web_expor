@@ -27,7 +27,7 @@
     <!-- // jusudul -->
     <div class="w-100">
        <h1 class="text-5xl font-bold bungee-regular">Mulailah Deggan Lagkah <span class="text-orange-500">Besar</span> Tanpa Biaya Besar</h1>
-       <div class="w-100 h-20 border rounded--md"></div>
+       <div class="w-100 h-20 border rounded-md"></div>
     </div>
   
     <!-- tremplate gerak -->
