@@ -83,7 +83,7 @@
             </div>
 
             <div class="border">
-              
+              <div class=""></div>
             </div>
           </div>
         </DeviceMockup>
