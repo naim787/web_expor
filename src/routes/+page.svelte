@@ -14,16 +14,10 @@
   ];
   
   let Domain = "";
-  let ReatDomain ;
-  
-  async function searchDomain() {
-    const res = await fetch(`/?domain=${Domain}`);
-    const data = await res.json();
-    ReatDomain = data;
-  }
-  
   onMount( async() => {
-    await searchDomain();
+    const res = await fetch("/?domain=naimabdullah.my.id");
+    const data = await res.json();
+    console.log(data);
   });
   
 </script>
@@ -41,7 +35,7 @@
         <SearchOutline class="shrink-0 h-6 w-6" />
         {/snippet}
       </Input>
-      <h1 class="text-red-500 text-2xl">{ReatDomain}</h1>
+      <h1 class="text-red-500 text-2xl">{do}</h1>
     </div>
   
     <!-- tremplate gerak -->
