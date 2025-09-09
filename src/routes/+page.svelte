@@ -39,6 +39,6 @@
     </div>
   </div>
   
-  <div class="w-[20vw] h-[20vw] absolute top-0 left-0 bg-sky-800 rounded-full z-[-1]"></div>
+  <div class="w-[20vw] h-[20vw] absolute top-0 left-0 bg-sky-100 rounded-full z-[-1]"></div>
 
 </div>
