@@ -1,7 +1,6 @@
 <script>
   import Nav from "$lib/components/Nav.svelte";
   import "../app.css"
-  import { GradientButton } from "flowbite-svelte";
 </script>
 
 <Nav />
@@ -10,7 +9,7 @@
 
   <!-- section -->
   <div class="pt-25 w-120">
-    <h1 class="bungee-regular text-3xl">Percepat Transformasi Digital Bisnis Anda dengan Solusi <GradientButton color="pinkToOrange">Website</GradientButton> Terjangkau</h1>
+    <h1 class="bungee-regular text-3xl">Percepat Transformasi Digital Bisnis Anda dengan Solusi <span class="bg-orange-600 px-1 rounded-md ">Website</span> Terjangkau</h1>
   </div>
 
 </div>
