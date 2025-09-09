@@ -7,6 +7,6 @@
 
 <div class="w-[100vw] h-[100vh] dark:bg-gray-950 text-black p-2 dark:text-white">
   <div class="pt-30 w-130">
-    <h1 class="bungee-regular text-3xl">Tingkatkan Visibilitas Bisnis Anda secara <span class="text-">Global</span> dengan Website Profesional</h1>
+    <h1 class="bungee-regular text-3xl">Tingkatkan Visibilitas Bisnis Anda secara <span class="text-orange-500">Global</span> dengan Website Profesional</h1>
   </div>
 </div>
