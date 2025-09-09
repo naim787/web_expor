@@ -83,7 +83,7 @@
             </div>
 
             <div class="border">
-              <img src="./tmp0.webp" alt="" class="w-">
+              <img src="./tmp0.webp" alt="" class="w-20">
             </div>
           </div>
         </DeviceMockup>
