@@ -4,7 +4,7 @@
   import { Button, GradientButton, Avatar} from "flowbite-svelte";
 
   // gsap
-import { onMount } from 'svelte';
+  import { onMount } from 'svelte';
   import { gsap } from 'gsap';
 
   let element;
