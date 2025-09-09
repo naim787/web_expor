@@ -21,10 +21,10 @@
   });
 </script>
 
+
+<div  bind:this={scrollEl} data-scroll-container class="w-[100vw] h-auto dark:bg-gray-950 text-black p-4 dark:text-white overflow-hidden">
+  
   <Nav />
-  
-  <div  bind:this={scrollEl} data-scroll-container class="w-[100vw] h-auto dark:bg-gray-950 text-black p-4 dark:text-white overflow-hidden">
-  
     <!-- section -->
      <div class="w-[100vw] h-[100vh] flex justify-center items-center">
        <div class="w-120">
