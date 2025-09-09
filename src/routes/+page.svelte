@@ -6,14 +6,14 @@
   import { Carousel, Controls, CarouselIndicators, Thumbnails } from "flowbite-svelte";
   import images from "./p.json";
 
-  
-  //device
   let index = $state(0);
+
+  //device
   import { DeviceMockup } from "flowbite-svelte";
-  
+
   import { onMount, onDestroy } from "svelte";
-  
-  // skeleton
+
+// skeleton
   import { Skeleton } from "flowbite-svelte";
   let bannerLabel;
   onMount(async() => {
