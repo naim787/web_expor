@@ -3,7 +3,28 @@
   import "../app.css"
   import { Button, GradientButton, Avatar} from "flowbite-svelte";
 
-  
+  <script>
+  import { onMount } from 'svelte';
+  import LocomotiveScroll from 'locomotive-scroll';
+
+  let scrollEl;
+
+  onMount(() => {
+    if (typeof document !== 'undefined') {
+      const scroll = new LocomotiveScroll({
+        el: scrollEl,
+        smooth: true,
+        smoothMobile: false,
+        getSpeed: true,
+        getDirection: true
+      });
+    }
+  });
+</script>
+
+<div bind:this={scrollEl} data-scroll-container>
+  <!-- Konten halaman Anda -->
+</div>
 </script>
 
 <Nav />
