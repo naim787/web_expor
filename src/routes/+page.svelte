@@ -37,7 +37,7 @@
        </div> -->
       <Gallery class="grid-cols-2 gap-2 w-100" items={images} />
     </div>
-    <div class="w-[100vw] h-[1vw] absolute top-0 left-0 bg-sky-300 rounded-full z-[-1]"></div>
+    <div class="w-[100vw] h-[0.5vw] absolute top-0 left-0 bg-sky-300 rounded-full z-[-1]"></div>
   </div>
   
 
