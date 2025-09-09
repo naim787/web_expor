@@ -14,7 +14,7 @@
   ];
   
   let Domain = "";
-  async function name(params) {
+  async function (params) {
     
   }
   onMount( async() => {
