@@ -4,20 +4,20 @@
   import { Button, GradientButton, Avatar} from "flowbite-svelte";
 
    import { onMount } from 'svelte';
-  import LocomotiveScroll from 'locomotive-scroll';
 
   let scrollEl;
 
-  onMount(() => {
-    if (typeof document !== 'undefined') {
-      const scroll = new LocomotiveScroll({
-        el: scrollEl,
-        smooth: true,
-        smoothMobile: false,
-        getSpeed: true,
-        getDirection: true
-      });
-    }
+  onMount(async () => {
+    // Hanya dijalankan di browser
+    const LocomotiveScroll = (await import('locomotive-scroll')).default;
+
+    const scroll = new LocomotiveScroll({
+      el: scrollEl,
+      smooth: true,
+      smoothMobile: false,
+      getSpeed: true,
+      getDirection: true
+    });
   });
 </script>
 
