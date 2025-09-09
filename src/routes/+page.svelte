@@ -4,6 +4,7 @@
   import "../app.css";
   import { Gallery , Label, Input} from "flowbite-svelte";
   import { EnvelopeSolid } from "flowbite-svelte-icons";
+  //  <SearchOutline class="shrink-0 h-6 w-6" />
   
   const images = [
     { alt: "shoes", src: "./tmp0.webp" },
@@ -30,7 +31,6 @@
        <h1 class="text-5xl font-bold bungee-regular">Mulailah Deggan Lagkah <span class="text-orange-500">Besar</span> Tanpa Biaya Besar</h1>
        <div class="w-100 h-15 border rounded-xl flex items-center justify-between">
         <input type="text" name="" id="" class="rounded-md w-[85%]" />
-        <SearchOutline class="shrink-0 h-6 w-6" />
        </div>
     </div>
   
