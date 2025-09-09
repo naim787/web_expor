@@ -81,6 +81,8 @@
                 <a href="/" class="">Tentag Kami</a>
               </div>
             </div>
+
+            
           </div>
         </DeviceMockup>
      </div>
