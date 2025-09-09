@@ -33,7 +33,7 @@
 
   <Nav />
   
-  <div class="w-[100vw] h-auto dark:bg-gray-950 text-black p-4 dark:text-white overflow-hidden" bind:this={scrollEl} data-scroll-container>
+  <div class="w-[100vw] h-auto dark:bg-gray-950 text-black p-4 dark:text-white" bind:this={scrollEl} data-scroll-container>
   
     <!-- section -->
      <div class="w-full h-[100vh] flex justify-center items-center">
