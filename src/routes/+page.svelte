@@ -4,13 +4,8 @@
   import { Button, GradientButton, Avatar} from "flowbite-svelte";
 
   import { Carousel, Controls, CarouselIndicators, Thumbnails } from "flowbite-svelte";
-  let images = [
-    {
-      alt: "Cosmic timetraveler",
-      src: "./tmp0.webp",
-      title: "cosmic"
-    }
-  ]
+  let images from "./imageData/images.json";
+
   let index = $state(0);
 
   //device
