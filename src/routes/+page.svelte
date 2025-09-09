@@ -4,8 +4,14 @@
   import { Button, GradientButton, Avatar} from "flowbite-svelte";
 
   // gsap
-  import { onMount } from 'svelte';
+import { onMount } from 'svelte';
   import { gsap } from 'gsap';
+
+  let element;
+
+  onMount(() => {
+    gsap.to(element, { duration: 2, x: 100, rotation: 360 });
+  });
 </script>
 
 <Nav />
