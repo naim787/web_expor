@@ -16,7 +16,7 @@
        "https://images.nightcafe.studio/jobs/Hz3hy7nuh0EB0JEdOKG0/Hz3hy7nuh0EB0JEdOKG0--0--79lhe.jpg?tr=w-1600,c-at_max"
      ];
 
-    }, )
+    }, 2000)
   })
 
 // transation
