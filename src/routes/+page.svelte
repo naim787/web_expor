@@ -17,6 +17,7 @@
     const res = await fetch("/?domain=naimabdullah.my.id");
     const data = await res.json();
   }
+  
   let Domain = "";
   onMount( async() => {
     await searchDomain();
