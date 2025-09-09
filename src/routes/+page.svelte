@@ -3,21 +3,31 @@
   import "../app.css"
   import { Button, GradientButton, Avatar} from "flowbite-svelte";
 
-   import { onMount } from 'svelte';
+    import { onMount, onDestroy } from "svelte";
 
   let scrollEl;
+  let scrollInstance;
 
   onMount(async () => {
-    // Hanya dijalankan di browser
-    const LocomotiveScroll = (await import('locomotive-scroll')).default;
+    const LocomotiveScroll = (await import("locomotive-scroll")).default;
 
-    const scroll = new LocomotiveScroll({
-      el: scrollEl,
-      smooth: true,
-      smoothMobile: false,
-      getSpeed: true,
-      getDirection: true
-    });
+    // Tunggu hingga scrollEl siap
+    if (scrollEl) {
+      scrollInstance = new LocomotiveScroll({
+        el: scrollEl,
+        smooth: true,
+        smoothMobile: false,
+        getSpeed: true,
+        getDirection: true
+      });
+    }
+  });
+
+  onDestroy(() => {
+    // Penting! Hancurkan instance agar tidak crash
+    if (scrollInstance) {
+      scrollInstance.destroy();
+    }
   });
 </script>
 
