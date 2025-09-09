@@ -13,7 +13,7 @@
   <NavUl {activeUrl}>
     <NavLi href="/" class="text-black bg-white dark:bg-transparent">Pertannyaan</NavLi>
     <NavLi href="/" class="text-black bg-white dark:bg-transparent">Template</NavLi>
-    <NavLi href="/" class="text-black bg-white dark:bg-transparent"></NavLi>
+    <NavLi href="/" class="text-black bg-white dark:bg-transparent">Font</NavLi>
     <NavLi href="/" class="text-black bg-white dark:bg-transparent">Alert</NavLi>
     <NavLi href="/" class="text-black bg-white dark:bg-transparent">Avatar</NavLi>
     <DarkMode />
