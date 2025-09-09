@@ -3,7 +3,7 @@
   import "../app.css"
   import { Button, GradientButton, Avatar} from "flowbite-svelte";
 
-    import { onMount, onDestroy } from "svelte";
+  import { onMount, onDestroy } from "svelte";
 
   let scrollEl;
   let scrollInstance;
