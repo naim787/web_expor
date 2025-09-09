@@ -83,7 +83,7 @@
             </div>
 
             <div class="border">
-              <img src="" alt="" class="">
+              <img src="./" alt="" class="">
             </div>
           </div>
         </DeviceMockup>
