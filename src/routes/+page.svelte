@@ -71,6 +71,7 @@
 
         <DeviceMockup device="laptop">
           <div class="w-150 h-200 border bg-red-500 relative">
+            
           </div>
         </DeviceMockup>
      </div>
