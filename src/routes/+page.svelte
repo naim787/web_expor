@@ -7,7 +7,7 @@
   import images from "./imageData/images.json";
 
   let index = $state(0);
-  
+
   //device
   import { DeviceMockup } from "flowbite-svelte";
 
@@ -88,28 +88,7 @@
             </div>
 
             <div class="flex justify-evenly gap-2 flex-wrap">
-              <img src="./tmp0.webp" alt="" class="w-20">
-              <img src="./tmp0.webp" alt="" class="w-20">
-              <img src="./tmp0.webp" alt="" class="w-20">
-              <img src="./tmp0.webp" alt="" class="w-20">
-              <img src="./tmp0.webp" alt="" class="w-20">
-              <img src="./tmp0.webp" alt="" class="w-20">
-              <img src="./tmp0.webp" alt="" class="w-20">
-              <img src="./tmp0.webp" alt="" class="w-20">
-              <img src="./tmp0.webp" alt="" class="w-20">
-              <img src="./tmp0.webp" alt="" class="w-20">
-              <img src="./tmp0.webp" alt="" class="w-20">
-              <img src="./tmp0.webp" alt="" class="w-20">
-              <img src="./tmp0.webp" alt="" class="w-20">
-              <img src="./tmp0.webp" alt="" class="w-20">
-              <img src="./tmp0.webp" alt="" class="w-20">
-              <img src="./tmp0.webp" alt="" class="w-20">
-              <img src="./tmp0.webp" alt="" class="w-20">
-              <img src="./tmp0.webp" alt="" class="w-20">
-              <img src="./tmp0.webp" alt="" class="w-20">
-              <img src="./tmp0.webp" alt="" class="w-20">
-              <img src="./tmp0.webp" alt="" class="w-20">
-              <img src="./tmp0.webp" alt="" class="w-20">
+              
             </div>
           </div>
         </DeviceMockup>
