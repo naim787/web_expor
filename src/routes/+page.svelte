@@ -71,7 +71,7 @@
 
         <DeviceMockup device="laptop">
           <div class="w-150 h-200 border bg-red-500 relative">
-            <div class="w-full h-10 ">
+            <div class="w-full h-10">
               <NavHamburger />
             </div>
           </div>
