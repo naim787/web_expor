@@ -56,8 +56,8 @@
      <div class="w-full h-[100vh] flex justify-center items-center">
        <div class="w-120" transition:fade>
          <h1 class="bungee-regular text-5xl">Percepat Transformasi Digital Bisnis Anda dengan Solusi <GradientButton shadow color="red" class="text-3xl">Website</GradientButton> Terjangkau</h1>
+         {#if bannerLabel}
          <div class="flex">
-          {#if bannerLabel}
             {#each bannerLabel as banner}
               <Avatar src={banner} stacked />
             {/each}
