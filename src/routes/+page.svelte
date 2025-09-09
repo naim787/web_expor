@@ -3,8 +3,8 @@
   import "../app.css"
   import { Button, GradientButton, Avatar} from "flowbite-svelte";
 
-  import LocomotiveScroll from 'locomotive-scroll';
   import { onMount } from 'svelte';
+  import LocomotiveScroll from 'locomotive-scroll';
 
   let scrollEl;
 
