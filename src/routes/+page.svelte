@@ -9,7 +9,7 @@
   import { Skeleton } from "flowbite-svelte";
   let bannerLabel;
   onMount(async() => {
-    setTimeout(asa())
+    setTimeout(as())
      bannerLabel = await [
       "https://images.nightcafe.studio/jobs/REDfxKehp6X24LqqFDwj/REDfxKehp6X24LqqFDwj--0--kydh4.jpg?tr=w-1600,c-at_max",
       "https://images.nightcafe.studio/jobs/7wY35HmH7kDK5IWkXM53/7wY35HmH7kDK5IWkXM53--0--x64ol.jpg?tr=w-1600,c-at_max",
