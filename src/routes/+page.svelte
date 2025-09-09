@@ -75,7 +75,7 @@
               <span class="self-center whitespace-nowrap dark:text-white font-bold text-md bungee-regular">WEBEXPOR</span>
               <a href="/" class="">Pertanyaan</a>
               <a href="/" class="">Template</a>
-              <a href="/" class="">Template</a>
+              <a href="/" class="">Tutorial</a>
             </div>
           </div>
         </DeviceMockup>
