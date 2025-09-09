@@ -5,8 +5,7 @@
   import { Gallery , Label, Input} from "flowbite-svelte";
   import { SearchOutline } from "flowbite-svelte-icons";
   //  <SearchOutline class="shrink-0 h-6 w-6" />
-  
-  
+
   const images = [
     { alt: "shoes", src: "./tmp0.webp" },
     { alt: "small bag", src: "./tmp1.webp" },
