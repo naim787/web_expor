@@ -8,7 +8,7 @@
 // skeleton
   import { Skeleton } from "flowbite-svelte";
   onMount(async() => {
-    const bannerLabel = ["https://images.nightcafe.studio/jobs/REDfxKehp6X24LqqFDwj/REDfxKehp6X24LqqFDwj--0--kydh4.jpg?tr=w-1600,c-at_max"]
+    const bannerLabel = ["https://images.nightcafe.studio/jobs/REDfxKehp6X24LqqFDwj/REDfxKehp6X24LqqFDwj--0--kydh4.jpg?tr=w-1600,c-at_max",]
   })
 
 // transation
