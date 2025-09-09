@@ -7,6 +7,6 @@
 
 <div class="w-[100vw] h-[100vh] dark:bg-gray-950 text-black p-2 dark:text-white">
   <div class="pt-30 w-100">
-    <h1 class="bungee-regular text-5xl"></h1>
+    <h1 class="bungee-regular text-5xl">MEMBUA</h1>
   </div>
 </div>
