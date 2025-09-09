@@ -7,7 +7,9 @@
 
 // skeleton
   import { Skeleton } from "flowbite-svelte";
-  onMount(async() =)
+  onMount(async() => {
+    
+  })
 
 // transation
   import { fade } from 'svelte/transition';
