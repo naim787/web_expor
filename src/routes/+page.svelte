@@ -8,7 +8,7 @@
     {
       alt: "Cosmic timetraveler",
       src: "./tmp0.webp",
-      title: "cosmic-timetraveler-pYyOZ8q7AII-unsplash.com"
+      title: "cosmic"
     }
   ]
   let index = $state(0);
