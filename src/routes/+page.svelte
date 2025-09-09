@@ -35,7 +35,7 @@
         <SearchOutline class="shrink-0 h-6 w-6" />
         {/snippet}
       </Input>
-      <h1 class="text-red-500">hallo</h1>
+      <h1 class="text-red-500 text-2xl">hallo</h1>
     </div>
   
     <!-- tremplate gerak -->
