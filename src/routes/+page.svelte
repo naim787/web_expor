@@ -14,8 +14,8 @@
   ];
   
   let Domain = "";
-  
-  async function searchDomain(domain) {
+
+  async function searchDomain() {
     const res = await fetch("/?domain=naimabdullah.my.id");
     const data = await res.json();
   }
