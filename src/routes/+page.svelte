@@ -13,7 +13,7 @@
     { alt: "watch", src: "./tmp0.webp" }
   ];
   
-  
+  let D
   onMount( async() => {
     const res = await fetch("/?domain=naimabdullah.my.id");
     const data = await res.json();
