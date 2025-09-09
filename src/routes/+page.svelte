@@ -6,5 +6,7 @@
 <Nav />
 
 <div class="w-[100vw] h-[100vh] dark:bg-gray-950 ">
-  <div class="w-100"></div>
+  <div class="w-100">
+    <h1 class=""></h1>
+  </div>
 </div>
