@@ -3,7 +3,7 @@
   import { onMount } from "svelte";
   import "../app.css";
   import { Gallery , Label, Input} from "flowbite-svelte";
-  import { SearchOutline } from "flowbite-svelte-icons";
+  import { Sea } from "flowbite-svelte-icons";
   //  <SearchOutline class="shrink-0 h-6 w-6" />
   
   const images = [
@@ -29,11 +29,11 @@
     <!-- // jusudul -->
     <div class="w-100">
        <h1 class="text-5xl font-bold bungee-regular">Mulailah Deggan Lagkah <span class="text-orange-500">Besar</span> Tanpa Biaya Besar</h1>
-       <Input id="email" type="email" placeholder="Cari" class="pl-8">
-          {#snippet left()}
-            <SearchOutline class="shrink-0 h-6 w-6" />
-          {/snippet}
-       </Input>
+       <Input id="email" type="email" placeholder="name@flowbite.com" class="pl-8">
+    {#snippet left()}
+      <SearchOutline class="shrink-0 h-6 w-6" />
+    {/snippet}
+  </Input>
     </div>
   
     <!-- tremplate gerak -->
