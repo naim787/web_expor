@@ -34,8 +34,8 @@
         {#snippet left()}
         <SearchOutline class="shrink-0 h-6 w-6" />
         {/snippet}
-        <h1 class="">hallo</h1>
       </Input>
+      <h1 class="">hallo</h1>
     </div>
   
     <!-- tremplate gerak -->
