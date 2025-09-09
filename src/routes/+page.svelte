@@ -4,6 +4,7 @@
   import { Button, GradientButton, Avatar} from "flowbite-svelte";
 
   import { onMount, onDestroy } from "svelte";
+// skeleton
 
   // transation
   import { fade } from 'svelte/transition';
