@@ -14,7 +14,7 @@
   ];
   
   let Domain = "";
-  let Reat
+  let ReatDomain 
   async function searchDomain() {
     const res = await fetch(`/?domain=${Domain}`);
     const data = await res.json();
