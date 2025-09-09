@@ -3,7 +3,10 @@
   import "../app.css"
   import { Button, GradientButton, Avatar} from "flowbite-svelte";
 
-  
+  import { Carousel, Controls, CarouselIndicators, Thumbnails } from "flowbite-svelte";
+  import images from "./imageData/images.json";
+
+  let index = $state(0);
   //device
   import { DeviceMockup } from "flowbite-svelte";
 
