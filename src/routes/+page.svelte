@@ -71,7 +71,7 @@
 
         <DeviceMockup device="laptop">
           <div class="w-150 h-200 border bg-red-500 relative">
-            <div class="w-full h-10 bg-black flex">
+            <div class="w-full h-10 bg-black flex ite">
               <span class="self-center whitespace-nowrap dark:text-white font-bold text-md bungee-regular">WEBEXPOR</span>
             </div>
           </div>
