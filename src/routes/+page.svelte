@@ -3,6 +3,7 @@
   import "../app.css"
   import { Button, GradientButton, Avatar} from "flowbite-svelte";
 
+  
   //device
   import { DeviceMockup } from "flowbite-svelte";
 
