@@ -11,7 +11,7 @@
   </NavBrand>
   <NavHamburger />
   <NavUl {activeUrl}>
-    <NavLi href="/" class="text-black bg-white dark:bg-transparent"></NavLi>
+    <NavLi href="/" class="text-black bg-white dark:bg-transparent">Pertannyaan</NavLi>
     <NavLi href="/" class="text-black bg-white dark:bg-transparent">Navbar</NavLi>
     <NavLi href="/" class="text-black bg-white dark:bg-transparent">Accordion</NavLi>
     <NavLi href="/" class="text-black bg-white dark:bg-transparent">Alert</NavLi>
