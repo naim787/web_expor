@@ -4,6 +4,16 @@
   import { Button, GradientButton, Avatar} from "flowbite-svelte";
 
   import { Carousel, Controls, CarouselIndicators, Thumbnails } from "flowbite-svelte";
+  let index = $state(0);
+  
+  //device
+  import { DeviceMockup } from "flowbite-svelte";
+  
+  import { onMount, onDestroy } from "svelte";
+  
+  // skeleton
+  import { Skeleton } from "flowbite-svelte";
+  let bannerLabel;
   let images = [
     {
       alt: "Cosmic timetraveler",
@@ -11,16 +21,6 @@
       title: "cosmic-timetraveler-pYyOZ8q7AII-unsplash.com"
     }
   ]
-  let index = $state(0);
-
-  //device
-  import { DeviceMockup } from "flowbite-svelte";
-
-  import { onMount, onDestroy } from "svelte";
-
-// skeleton
-  import { Skeleton } from "flowbite-svelte";
-  let bannerLabel;
   onMount(async() => {
       bannerLabel = await [
        "https://images.nightcafe.studio/jobs/REDfxKehp6X24LqqFDwj/REDfxKehp6X24LqqFDwj--0--kydh4.jpg?tr=w-1600,c-at_max",
