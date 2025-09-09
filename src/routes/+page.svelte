@@ -4,7 +4,7 @@
   import { Button, GradientButton, Avatar} from "flowbite-svelte";
 
   //device
-  import { DeviceMockup, <NavHamburger /> } from "flowbite-svelte";
+  import { DeviceMockup, <NavHamburger } from "flowbite-svelte";
 
   import { onMount, onDestroy } from "svelte";
 
