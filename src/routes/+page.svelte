@@ -10,7 +10,9 @@
 
   <!-- section -->
    <div class="w-[100vw] h-[100v]">
-    <div class=""></div>
+    <div class="">
+      
+    </div>
     <h1 class="bungee-regular text-5xl">Percepat Transformasi Digital Bisnis Anda dengan Solusi <GradientButton shadow color="red" class="text-3xl">Website</GradientButton> Terjangkau</h1>
     <div class="flex">
       <Avatar src="https://images.nightcafe.studio/jobs/REDfxKehp6X24LqqFDwj/REDfxKehp6X24LqqFDwj--0--kydh4.jpg?tr=w-1600,c-at_max" stacked />
