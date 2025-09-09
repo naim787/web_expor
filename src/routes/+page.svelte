@@ -70,7 +70,7 @@
         </div>
 
         <DeviceMockup device="laptop">
-          <div class="w-150 h-200 border bg-gray-950 relative">
+          <div class="w-150 h-200 border bg-gray-900 relative">
             <div class="w-full h-10 bg-black flex justify-between items-center p-2 shadow shadow-white/20">
               <div class="self-center whitespace-nowrap dark:text-white font-bold text-lg bungee-regular">WEBEXPOR</div>
               <div class="w-70 text-[10px]">
