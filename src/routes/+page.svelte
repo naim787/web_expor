@@ -74,7 +74,7 @@
             <div class="w-full h-10 bg-black flex items-center justify-between p-2">
               <span class="self-center whitespace-nowrap dark:text-white font-bold text-md bungee-regular">WEBEXPOR</span>
               <a href="/" class="">Pertanyaan</a>
-              <a href="/" class="">Pertanyaan</a>
+              <a href="/" class="">Template</a>
             </div>
           </div>
         </DeviceMockup>
