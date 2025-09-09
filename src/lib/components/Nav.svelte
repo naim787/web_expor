@@ -15,7 +15,7 @@
     <NavLi href="/" class="text-black bg-white dark:bg-transparent">Template</NavLi>
     <NavLi href="/" class="text-black bg-white dark:bg-transparent">Tutorial</NavLi>
     <NavLi href="/" class="text-black bg-white dark:bg-transparent">Tentag Kami</NavLi>
-    <NavLi href="/" class="text-black bg-white dark:bg-transparent">Avatar</NavLi>
+    <NavLi href="/" class="text-black bg-white dark:bg-transparent"></NavLi>
     <DarkMode />
   </NavUl>
 </Navbar>
