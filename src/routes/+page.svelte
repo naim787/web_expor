@@ -30,7 +30,7 @@
     <!-- // jusudul -->
     <div class="w-100">
        <h1 class="text-5xl font-bold bungee-regular">Mulailah Deggan Lagkah <span class="text-orange-500">Besar</span> Tanpa Biaya Besar</h1>
-       <h1 class=""></h1>
+       <h1 class="">hallo</h1>
        <Input id="text" type="text" placeholder="Cari Domain" class="pl-8" bind:value={Domain}>
           {#snippet left()}
             <SearchOutline class="shrink-0 h-6 w-6" />
