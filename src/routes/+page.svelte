@@ -88,7 +88,13 @@
             </div>
 
             <div class="flex justify-evenly gap-2 flex-wrap">
-              
+              <div class="max-w-4xl space-y-4">
+  <Carousel {images} bind:index>
+    <Controls />
+    <CarouselIndicators />
+  </Carousel>
+  <Thumbnails {images} bind:index />
+</div>
             </div>
           </div>
         </DeviceMockup>
