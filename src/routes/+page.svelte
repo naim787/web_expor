@@ -3,7 +3,7 @@
   import { onMount } from "svelte";
   import "../app.css";
   import { Gallery , Label, Input} from "flowbite-svelte";
-  import { Sea } from "flowbite-svelte-icons";
+  import { SearchOutline } from "flowbite-svelte-icons";
   //  <SearchOutline class="shrink-0 h-6 w-6" />
   
   const images = [
