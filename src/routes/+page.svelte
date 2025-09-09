@@ -56,9 +56,9 @@
          <h1 class="bungee-regular text-5xl">Percepat Transformasi Digital Bisnis Anda dengan Solusi <GradientButton shadow color="red" class="text-3xl">Website</GradientButton> Terjangkau</h1>
          <div class="flex">
           {#each bannerLabel as banner}
+          <Avatar src={} stacked />
             
           {/each}
-           <Avatar src={} stacked />
            <Avatar stacked href="/" class="bg-gray-700 text-sm text-white hover:bg-gray-600">+5230</Avatar>
           </div>
           <Skeleton size="sm" class="my-8" />
