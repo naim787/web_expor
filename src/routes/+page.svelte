@@ -37,11 +37,5 @@
         </div>
        </div>
      </div>
-
-     <div class="w-full h-[100vh]"></div>
-     <div class="w-full h-[100vh]"></div>
-     <div class="w-full h-[100vh]"></div>
-     <div class="w-full h-[100vh]"></div>
-     <div class="w-full h-[100vh]"></div>
   
   </div>
