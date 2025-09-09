@@ -4,7 +4,7 @@
   import { Button, GradientButton, Avatar} from "flowbite-svelte";
 
   import { onMount, onDestroy } from "svelte";
-  
+
 // skeleton
   import { Skeleton } from "flowbite-svelte";
 
@@ -43,6 +43,7 @@
   
     <!-- section -->
      <div class="w-full h-[100vh] flex justify-center items-center">
+      
        <div class="w-120" transition:fade>
          <h1 class="bungee-regular text-5xl">Percepat Transformasi Digital Bisnis Anda dengan Solusi <GradientButton shadow color="red" class="text-3xl">Website</GradientButton> Terjangkau</h1>
          <div class="flex">
